@@ -1,0 +1,384 @@
+,customer_city,seller_city
+291,juiz de fora,ribeirao preto
+433,rio do sul,guariba
+1295,pelotas,sao paulo
+1296,pelotas,sao paulo
+1327,sao joao del rei,ribeirao preto
+1705,belford roxo,sao paulo
+1944,duque de caxias,sao paulo
+2192,cristais,sao jose do rio preto
+2193,cristais,sao jose do rio preto
+2282,belo horizonte,ribeirao preto
+2303,santo andre,ribeirao preto
+2936,cordeiro,ribeirao preto
+3324,caucaia,sao jose do rio preto
+3453,itajai,ribeirao preto
+3562,navegantes,ribeirao preto
+3703,piracaia,sao paulo
+3793,tupa,guariba
+4163,rio de janeiro,sao paulo
+4313,anapolis,ribeirao preto
+4491,diamantina,sao paulo
+4548,criciuma,sao paulo
+4722,macae,guariba
+5393,sao paulo,ribeirao preto
+5612,santa cruz do sul,guariba
+5919,niteroi,guariba
+6309,taubate,guariba
+6518,niteroi,sao paulo
+6519,niteroi,sao paulo
+7154,curitiba,ribeirao preto
+7846,mandaguari,sao jose do rio preto
+9525,fortaleza,ribeirao preto
+9879,passos,sao paulo
+10184,sao paulo,campinas
+10310,queimados,ribeirao preto
+10311,queimados,ribeirao preto
+10552,aracaju,ribeirao preto
+10670,belo horizonte,ribeirao preto
+10810,belo horizonte,sao paulo
+10865,maceio,sao jose do rio preto
+10866,maceio,sao jose do rio preto
+10910,praia grande,sao paulo
+10996,londrina,sao paulo
+11506,bambui,ribeirao preto
+11581,rio de janeiro,sao jose do rio preto
+11582,rio de janeiro,sao jose do rio preto
+11776,sao joao de meriti,ribeirao preto
+12293,sao paulo,ribeirao preto
+12996,salvador,sao jose do rio preto
+13057,visconde do rio branco,sao paulo
+13301,belo horizonte,guariba
+13356,recife,guariba
+13533,goiania,ribeirao preto
+13650,presidente prudente,guariba
+14900,niteroi,sao paulo
+15947,salvador,ribeirao preto
+16072,sao miguel,ribeirao preto
+16933,goiania,sao paulo
+16959,tatui,guariba
+17057,natal,ribeirao preto
+17797,franca,ribeirao preto
+18401,cataguases,sao jose do rio preto
+18798,sao paulo,ribeirao preto
+19325,contagem,ribeirao preto
+20324,minas novas,ribeirao preto
+20499,caratinga,ribeirao preto
+20818,descalvado,ribeirao preto
+21311,rio de janeiro,ribeirao preto
+21436,brasilia,ribeirao preto
+21637,sao paulo,guariba
+21669,campinas,ribeirao preto
+21687,paranagua,sao jose do rio preto
+22325,brasilia,sao paulo
+22545,rio claro,sao jose do rio preto
+22546,rio claro,sao jose do rio preto
+22607,primavera do leste,guarulhos
+23067,penha,ribeirao preto
+23117,taboao da serra,sao jose do rio preto
+23599,joacaba,sao paulo
+23770,maceio,ribeirao preto
+23989,sao paulo,ribeirao preto
+24235,alpercata,sao jose do rio preto
+24256,sao paulo,ribeirao preto
+25197,curitiba,ribeirao preto
+25712,paragominas,sao paulo
+25842,gurupi,sao paulo
+25976,sao jose dos campos,guariba
+25977,rio de janeiro,ribeirao preto
+26107,rio de janeiro,ribeirao preto
+27103,bauru,sao paulo
+27159,salvador,guariba
+27311,varginha,guariba
+27816,recife,sao jose do rio preto
+27817,recife,sao jose do rio preto
+28033,guarulhos,ribeirao preto
+28052,rio de janeiro,sao paulo
+28079,sao jose dos pinhais,guariba
+28752,rio de janeiro,sao jose do rio preto
+28753,rio de janeiro,sao jose do rio preto
+28837,vila velha,sao paulo
+28838,vila velha,sao paulo
+30362,resende,ribeirao preto
+30459,rio de janeiro,sao jose do rio preto
+30460,rio de janeiro,sao jose do rio preto
+30461,rio de janeiro,sao jose do rio preto
+30467,caridade,ribeirao preto
+30481,sao paulo,ribeirao preto
+30851,itapetinga,ribeirao preto
+31159,rolante,sao paulo
+31424,rio de janeiro,sao paulo
+31656,toledo,sao paulo
+32579,cachoeiro de itapemirim,ribeirao preto
+33334,carmo da cachoeira,ribeirao preto
+33682,pedro leopoldo,sao jose do rio preto
+33683,pedro leopoldo,sao jose do rio preto
+33684,pedro leopoldo,sao jose do rio preto
+33685,pedro leopoldo,sao jose do rio preto
+34237,fortaleza,guariba
+34842,miraima,guariba
+34862,londrina,ribeirao preto
+35184,embu das artes,ribeirao preto
+35210,rio de janeiro,sao paulo
+35211,rio de janeiro,sao paulo
+35312,pinhais,sao paulo
+35531,joao pessoa,sao paulo
+35532,joao pessoa,sao paulo
+35628,blumenau,ribeirao preto
+35652,itabira,ribeirao preto
+35771,rio de janeiro,ribeirao preto
+35907,salvador,ribeirao preto
+35908,salvador,ribeirao preto
+36915,duque de caxias,ribeirao preto
+36916,duque de caxias,ribeirao preto
+36917,duque de caxias,ribeirao preto
+36918,duque de caxias,ribeirao preto
+36919,duque de caxias,ribeirao preto
+37677,campos borges,sao paulo
+37685,sao paulo,ribeirao preto
+38686,paulinia,guariba
+38888,salesopolis,ribeirao preto
+38927,sao paulo,ribeirao preto
+38958,rio de janeiro,ribeirao preto
+39049,cacoal,ribeirao preto
+39364,sao paulo,sao paulo
+39499,bom despacho,ribeirao preto
+39813,bastos,sao paulo
+39814,bastos,sao paulo
+40380,sao paulo,ribeirao preto
+40719,sao joao de meriti,ribeirao preto
+41347,paulista,ribeirao preto
+41493,rio de janeiro,ribeirao preto
+41738,nazario,sao paulo
+41766,sao goncalo,guariba
+41799,florianopolis,guariba
+41813,rio de janeiro,guariba
+41903,cachoeiro de itapemirim,sao jose do rio preto
+41904,cachoeiro de itapemirim,sao jose do rio preto
+42006,sao paulo,ribeirao preto
+42248,maua,ribeirao preto
+42889,sao jose do rio preto,guariba
+43258,anapolis,ribeirao preto
+43768,marilia,guarulhos
+43923,saquarema,guariba
+44087,belo horizonte,sao jose do rio preto
+44665,campo grande,sao paulo
+44930,caratinga,guarulhos
+45138,sao bernardo do campo,ribeirao preto
+45404,sao paulo,guariba
+45425,brasilia,sao paulo
+45426,brasilia,sao paulo
+45906,sao paulo,ribeirao preto
+46073,taquarituba,sao paulo
+46276,niteroi,ribeirao preto
+46321,colatina,sao paulo
+47070,parobe,sao paulo
+47385,vitoria,guariba
+47744,sao goncalo,ribeirao preto
+48387,maceio,ribeirao preto
+48401,pinhais,sao paulo
+48402,pinhais,sao paulo
+48742,belo horizonte,ribeirao preto
+49708,sao goncalo,ribeirao preto
+50101,porto alegre,sao paulo
+50704,curitiba,ribeirao preto
+51077,hortolandia,ribeirao preto
+51470,santana,ribeirao preto
+52248,rio de janeiro,guariba
+52337,chapeco,sao jose do rio preto
+52649,mogi-guacu,guariba
+52746,rio de janeiro,sao paulo
+52747,rio de janeiro,sao paulo
+52765,campina grande,ribeirao preto
+53107,rio de janeiro,sao paulo
+53108,rio de janeiro,sao paulo
+53378,itagiba,sao paulo
+53434,cariacica,ribeirao preto
+54032,rio de janeiro,sao paulo
+54043,lagoa santa,ribeirao preto
+54080,rio de janeiro,ribeirao preto
+54237,embu das artes,ribeirao preto
+54420,guarapuava,ribeirao preto
+54838,sao jose dos pinhais,sao paulo
+54839,sao jose dos pinhais,sao paulo
+56043,belo horizonte,sao jose do rio preto
+56265,santa luzia,sao jose do rio preto
+56266,santa luzia,sao jose do rio preto
+57014,anicuns,sao paulo
+57226,betim,ribeirao preto
+57481,mairinque,guariba
+57643,rio de janeiro,sao paulo
+58233,sao jose,ribeirao preto
+58598,goiania,guariba
+58769,londrina,sao jose do rio preto
+59055,sao goncalo,ribeirao preto
+60362,volta redonda,sao paulo
+60502,paicandu,ribeirao preto
+60646,criciuma,guariba
+60868,ilha solteira,guariba
+61053,sao paulo,ribeirao preto
+61227,juiz de fora,sao paulo
+61706,porto alegre,sao paulo
+62089,sao pedro da aldeia,ribeirao preto
+62954,rio de janeiro,ribeirao preto
+63302,rio de janeiro,ribeirao preto
+63303,rio de janeiro,ribeirao preto
+63304,rio de janeiro,ribeirao preto
+64327,sao paulo,ribeirao preto
+64385,porto alegre,sao paulo
+64653,tres marias,sao paulo
+65174,uberlandia,guariba
+65582,juazeiro do norte,sao jose do rio preto
+65588,marilia,ribeirao preto
+65945,maua,ribeirao preto
+66371,senador pompeu,guariba
+66838,sao paulo,sao jose do rio preto
+67048,belo horizonte,sao paulo
+67177,queimados,ribeirao preto
+67192,rio de janeiro,sao paulo
+67193,rio de janeiro,sao paulo
+67316,barreiras,sao jose do rio preto
+68237,goiana,sao paulo
+68265,divinolandia,sao paulo
+68624,belo horizonte,ribeirao preto
+68646,teresina,sao jose do rio preto
+68741,sao paulo,ribeirao preto
+69882,vila velha,guariba
+70185,palhoca,sao paulo
+70186,palhoca,sao paulo
+70681,rio de janeiro,ribeirao preto
+70818,cangucu,sao jose do rio preto
+71262,aparecida de goiania,sao paulo
+71263,aparecida de goiania,sao paulo
+71435,sao jose,sao paulo
+71658,amaraji,guariba
+71687,correia pinto,ribeirao preto
+71980,rio de janeiro,ribeirao preto
+74475,belford roxo,sao paulo
+74489,sao goncalo,guariba
+74674,costa rica,sao paulo
+74675,costa rica,sao paulo
+74821,belo horizonte,ribeirao preto
+75277,pirajui,ribeirao preto
+75429,valinhos,ribeirao preto
+75685,cambui,sao paulo
+75710,contagem,sao jose do rio preto
+75711,contagem,sao jose do rio preto
+75758,goiania,ribeirao preto
+76024,jundiai,sao jose do rio preto
+76947,rio de janeiro,ribeirao preto
+77540,parauna,sao paulo
+77642,assis,sao paulo
+77897,sao paulo,ribeirao preto
+78719,sao paulo,sao jose do rio preto
+79128,louveira,sao jose do rio preto
+79528,guarulhos,ribeirao preto
+79529,guarulhos,ribeirao preto
+80031,sao paulo,ribeirao preto
+80073,mogi das cruzes,guariba
+80208,maua,guariba
+80262,rio de janeiro,sao paulo
+81253,sao paulo,guariba
+81823,itaquaquecetuba,santo andre
+82096,juiz de fora,sao paulo
+82585,belo horizonte,sao jose do rio preto
+82741,palotina,ribeirao preto
+82974,montanha,sao paulo
+83024,sao vicente,ribeirao preto
+83136,belo horizonte,ribeirao preto
+83561,montenegro,ribeirao preto
+83596,araras,sao jose do rio preto
+85529,sao joao del rei,sao paulo
+85638,recife,ribeirao preto
+85775,conselheiro lafaiete,sao paulo
+86001,niteroi,ribeirao preto
+86827,lavras,sao paulo
+87068,santo andre,sao jose do rio preto
+87262,curral de cima,guariba
+87420,camacari,ribeirao preto
+87421,camacari,ribeirao preto
+87422,camacari,ribeirao preto
+87960,indaiatuba,sao paulo
+88514,santana do livramento,sao paulo
+88904,campinas do sul,sao paulo
+89095,rio de janeiro,ribeirao preto
+89268,fortaleza,sao paulo
+89739,matias barbosa,ribeirao preto
+89899,sao jose dos pinhais,sao paulo
+90121,macaubas,sao paulo
+90821,salvador,ribeirao preto
+91150,sao goncalo,ribeirao preto
+91278,campos dos goytacazes,guariba
+92133,perdoes,sao paulo
+92283,salvador,ribeirao preto
+93304,seropedica,ribeirao preto
+93400,aragoiania,guariba
+93521,cuiaba,sao jose do rio preto
+93522,cuiaba,sao jose do rio preto
+93675,pau dos ferros,sao paulo
+93919,piuma,ribeirao preto
+94330,juiz de fora,sao paulo
+94716,brasilia,sao paulo
+94871,varzea grande,ribeirao preto
+94935,araras,ribeirao preto
+95591,coronel pacheco,ribeirao preto
+95991,sao paulo,ribeirao preto
+96397,brasilia,sao paulo
+96592,jundiai,ribeirao preto
+96840,niteroi,ribeirao preto
+96937,serra,guariba
+97840,rio de janeiro,guariba
+97995,capitao andrade,guariba
+98223,belo horizonte,ribeirao preto
+98400,jeremoabo,sao paulo
+98661,rio de janeiro,sao jose do rio preto
+98672,limeira,ribeirao preto
+99375,rio de janeiro,sao jose do rio preto
+99376,rio de janeiro,sao jose do rio preto
+99749,rio de janeiro,ribeirao preto
+100431,salvador,sao paulo
+100727,campos dos goytacazes,sao jose do rio preto
+101443,rio de janeiro,guariba
+102289,monte carmelo,sao paulo
+102313,belo horizonte,guariba
+102582,sao paulo,ribeirao preto
+102767,limoeiro,sao jose do rio preto
+103901,salvador,ribeirao preto
+103917,campo grande,sao paulo
+103960,brumadinho,sao paulo
+104130,rio de janeiro,ribeirao preto
+104131,rio de janeiro,ribeirao preto
+104367,vicosa,ribeirao preto
+104484,contagem,sao paulo
+104728,pelotas,guariba
+104995,rio de janeiro,ribeirao preto
+105250,rio de janeiro,guariba
+105491,rio de janeiro,sao paulo
+105703,curitiba,sao paulo
+105916,palmeira,sao jose do rio preto
+106400,sao bernardo do campo,ribeirao preto
+106575,cachoeirinha,guariba
+106602,sao vicente,sao paulo
+106698,salvador,guariba
+106769,sao luis,ribeirao preto
+107303,avare,guariba
+107389,rio de janeiro,guariba
+107549,vila velha,guariba
+107733,sao paulo,ribeirao preto
+107785,curitiba,ribeirao preto
+108342,picos,ribeirao preto
+108361,votorantim,ribeirao preto
+108958,santa gertrudes,sao paulo
+109100,concordia,ribeirao preto
+109171,maceio,sao jose do rio preto
+109227,sao paulo,ribeirao preto
+109397,aracoiaba da serra,sao paulo
+109799,rio de janeiro,ribeirao preto
+111174,campinas,ribeirao preto
+111358,itupeva,sao paulo
+111359,itupeva,sao paulo
+111696,sao paulo,ribeirao preto
+111761,palmeira,guariba
+112345,massape,ribeirao preto
+112873,sao paulo,guariba
+113333,tres rios,ribeirao preto
