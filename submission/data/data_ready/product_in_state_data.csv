@@ -1,0 +1,1351 @@
+customer_state,product_category_name_english,product_id,state_name
+SP,bed_bath_table,1925,São Paulo
+SP,sports_leisure,1655,São Paulo
+SP,furniture_decor,1443,São Paulo
+SP,housewares,1404,São Paulo
+SP,health_beauty,1402,São Paulo
+SP,computers_accessories,934,São Paulo
+SP,auto,906,São Paulo
+RJ,bed_bath_table,855,Rio de Janeiro
+SP,toys,812,São Paulo
+MG,bed_bath_table,719,Minas Gerais
+SP,watches_gifts,695,São Paulo
+SP,telephony,678,São Paulo
+RJ,sports_leisure,642,Rio de Janeiro
+MG,sports_leisure,602,Minas Gerais
+RJ,furniture_decor,596,Rio de Janeiro
+RJ,health_beauty,541,Rio de Janeiro
+SP,baby,538,São Paulo
+MG,health_beauty,528,Minas Gerais
+SP,perfumery,525,São Paulo
+MG,housewares,501,Minas Gerais
+RJ,housewares,498,Rio de Janeiro
+SP,stationery,497,São Paulo
+MG,furniture_decor,493,Minas Gerais
+SP,cool_stuff,457,São Paulo
+SP,fashion_bags_accessories,443,São Paulo
+SP,pet_shop,429,São Paulo
+MG,computers_accessories,415,Minas Gerais
+RJ,computers_accessories,408,Rio de Janeiro
+SP,garden_tools,401,São Paulo
+RS,bed_bath_table,389,Rio Grande do Sul
+RJ,watches_gifts,357,Rio de Janeiro
+MG,auto,356,Minas Gerais
+RJ,toys,354,Rio de Janeiro
+RS,sports_leisure,332,Rio Grande do Sul
+RS,furniture_decor,330,Rio Grande do Sul
+PR,sports_leisure,322,Paraná
+MG,toys,321,Minas Gerais
+PR,furniture_decor,317,Paraná
+SP,electronics,315,São Paulo
+RJ,auto,313,Rio de Janeiro
+PR,bed_bath_table,308,Paraná
+MG,telephony,294,Minas Gerais
+MG,watches_gifts,288,Minas Gerais
+SC,sports_leisure,272,Santa Catarina
+RS,health_beauty,269,Rio Grande do Sul
+RJ,telephony,259,Rio de Janeiro
+PR,health_beauty,258,Paraná
+RS,housewares,257,Rio Grande do Sul
+RS,computers_accessories,251,Rio Grande do Sul
+PR,housewares,249,Paraná
+BA,health_beauty,233,Bahia
+MG,baby,228,Minas Gerais
+RJ,baby,226,Rio de Janeiro
+RJ,perfumery,225,Rio de Janeiro
+SP,construction_tools_construction,217,São Paulo
+BA,sports_leisure,217,Bahia
+SC,bed_bath_table,217,Santa Catarina
+RJ,cool_stuff,216,Rio de Janeiro
+MG,perfumery,215,Minas Gerais
+PR,computers_accessories,213,Paraná
+SC,furniture_decor,210,Santa Catarina
+SP,home_appliances,207,São Paulo
+SC,health_beauty,206,Santa Catarina
+MG,cool_stuff,203,Minas Gerais
+RJ,stationery,199,Rio de Janeiro
+SP,office_furniture,192,São Paulo
+SP,luggage_accessories,190,São Paulo
+MG,fashion_bags_accessories,188,Minas Gerais
+RJ,electronics,185,Rio de Janeiro
+RS,telephony,184,Rio Grande do Sul
+BA,bed_bath_table,184,Bahia
+SC,housewares,181,Santa Catarina
+SP,consoles_games,177,São Paulo
+MG,stationery,176,Minas Gerais
+PR,watches_gifts,172,Paraná
+SC,computers_accessories,171,Santa Catarina
+GO,bed_bath_table,170,Goiás
+BA,furniture_decor,168,Bahia
+MG,pet_shop,167,Minas Gerais
+RS,toys,165,Rio Grande do Sul
+MG,electronics,163,Minas Gerais
+PR,telephony,161,Paraná
+PR,auto,160,Paraná
+ES,bed_bath_table,159,Espírito Santo
+RS,watches_gifts,158,Rio Grande do Sul
+BA,watches_gifts,158,Bahia
+DF,sports_leisure,158,Distrito Federal
+RJ,garden_tools,156,Rio de Janeiro
+RJ,fashion_bags_accessories,154,Rio de Janeiro
+BA,telephony,153,Bahia
+PR,toys,152,Paraná
+PE,health_beauty,150,Pernambuco
+RS,auto,147,Rio Grande do Sul
+GO,health_beauty,147,Goiás
+RS,cool_stuff,146,Rio Grande do Sul
+ES,sports_leisure,145,Espírito Santo
+BA,computers_accessories,144,Bahia
+SP,musical_instruments,144,São Paulo
+RJ,pet_shop,143,Rio de Janeiro
+MG,garden_tools,142,Minas Gerais
+DF,bed_bath_table,141,Distrito Federal
+SC,auto,138,Santa Catarina
+DF,health_beauty,136,Distrito Federal
+PR,cool_stuff,133,Paraná
+GO,sports_leisure,133,Goiás
+SP,small_appliances,129,São Paulo
+BA,auto,128,Bahia
+RS,baby,128,Rio Grande do Sul
+BA,housewares,126,Bahia
+SC,telephony,125,Santa Catarina
+SP,books_general_interest,123,São Paulo
+PR,baby,121,Paraná
+PE,sports_leisure,121,Pernambuco
+SP,home_construction,119,São Paulo
+RS,stationery,116,Rio Grande do Sul
+SC,watches_gifts,112,Santa Catarina
+ES,health_beauty,112,Espírito Santo
+DF,housewares,111,Distrito Federal
+RJ,office_furniture,109,Rio de Janeiro
+PE,watches_gifts,107,Pernambuco
+ES,furniture_decor,106,Espírito Santo
+PR,perfumery,105,Paraná
+RS,garden_tools,101,Rio Grande do Sul
+PR,electronics,101,Paraná
+RS,perfumery,101,Rio Grande do Sul
+ES,computers_accessories,97,Espírito Santo
+CE,watches_gifts,96,Ceará
+DF,watches_gifts,96,Distrito Federal
+GO,telephony,95,Goiás
+DF,computers_accessories,95,Distrito Federal
+DF,furniture_decor,95,Distrito Federal
+DF,auto,94,Distrito Federal
+ES,housewares,93,Espírito Santo
+GO,housewares,93,Goiás
+SC,toys,93,Santa Catarina
+RS,electronics,92,Rio Grande do Sul
+BA,toys,91,Bahia
+GO,watches_gifts,91,Goiás
+BA,cool_stuff,90,Bahia
+MG,construction_tools_construction,90,Minas Gerais
+PR,stationery,90,Paraná
+ES,watches_gifts,89,Espírito Santo
+PE,telephony,89,Pernambuco
+MG,office_furniture,88,Minas Gerais
+GO,computers_accessories,87,Goiás
+MG,luggage_accessories,86,Minas Gerais
+ES,telephony,86,Espírito Santo
+SC,cool_stuff,85,Santa Catarina
+PA,health_beauty,85,Pará
+CE,health_beauty,84,Ceará
+PR,fashion_bags_accessories,84,Paraná
+SP,furniture_living_room,84,São Paulo
+SC,baby,83,Santa Catarina
+GO,furniture_decor,83,Goiás
+PE,computers_accessories,81,Pernambuco
+MT,health_beauty,79,Mato Grosso
+RJ,consoles_games,79,Rio de Janeiro
+ES,toys,79,Espírito Santo
+CE,sports_leisure,78,Ceará
+SC,perfumery,76,Santa Catarina
+DF,toys,76,Distrito Federal
+RJ,construction_tools_construction,76,Rio de Janeiro
+ES,auto,75,Espírito Santo
+PR,garden_tools,74,Paraná
+BA,baby,74,Bahia
+SC,electronics,74,Santa Catarina
+MG,consoles_games,74,Minas Gerais
+PE,bed_bath_table,73,Pernambuco
+SP,air_conditioning,72,São Paulo
+RJ,luggage_accessories,72,Rio de Janeiro
+BA,garden_tools,72,Bahia
+PR,pet_shop,72,Paraná
+PA,computers_accessories,71,Pará
+SP,fashion_shoes,70,São Paulo
+SC,stationery,70,Santa Catarina
+GO,cool_stuff,70,Goiás
+CE,computers_accessories,69,Ceará
+SP,home_confort,69,São Paulo
+GO,auto,69,Goiás
+PA,sports_leisure,68,Pará
+CE,telephony,68,Ceará
+RJ,small_appliances,67,Rio de Janeiro
+GO,toys,67,Goiás
+BA,electronics,67,Bahia
+RS,fashion_bags_accessories,67,Rio Grande do Sul
+RS,pet_shop,66,Rio Grande do Sul
+PE,auto,66,Pernambuco
+PE,furniture_decor,66,Pernambuco
+MT,sports_leisure,65,Mato Grosso
+SC,fashion_bags_accessories,65,Santa Catarina
+GO,perfumery,64,Goiás
+PA,telephony,64,Pará
+DF,telephony,64,Distrito Federal
+CE,furniture_decor,63,Ceará
+SC,garden_tools,63,Santa Catarina
+SP,fixed_telephony,63,São Paulo
+SP,food_drink,62,São Paulo
+SC,pet_shop,62,Santa Catarina
+PA,watches_gifts,62,Pará
+CE,bed_bath_table,62,Ceará
+BA,stationery,62,Bahia
+SP,market_place,61,São Paulo
+SP,books_technical,61,São Paulo
+MG,home_appliances,61,Minas Gerais
+MA,computers_accessories,61,Maranhão
+RJ,musical_instruments,61,Rio de Janeiro
+DF,perfumery,61,Distrito Federal
+MA,health_beauty,60,Maranhão
+MT,bed_bath_table,60,Mato Grosso
+SP,food,59,São Paulo
+MA,sports_leisure,59,Maranhão
+BA,fashion_bags_accessories,59,Bahia
+MA,telephony,58,Maranhão
+MG,musical_instruments,57,Minas Gerais
+SP,kitchen_dining_laundry_garden_furniture,57,São Paulo
+MS,sports_leisure,57,Mato Grosso do Sul
+RJ,furniture_living_room,56,Rio de Janeiro
+PA,furniture_decor,54,Pará
+BA,perfumery,54,Bahia
+SP,drinks,54,São Paulo
+ES,electronics,53,Espírito Santo
+PE,cool_stuff,53,Pernambuco
+MT,telephony,53,Mato Grosso
+DF,cool_stuff,52,Distrito Federal
+DF,baby,52,Distrito Federal
+PE,housewares,51,Pernambuco
+CE,toys,51,Ceará
+PB,health_beauty,51,Paraíba
+RJ,home_appliances,51,Rio de Janeiro
+BA,pet_shop,51,Bahia
+ES,baby,51,Espírito Santo
+MS,bed_bath_table,51,Mato Grosso do Sul
+SP,costruction_tools_garden,50,São Paulo
+SP,home_appliances_2,50,São Paulo
+MT,watches_gifts,50,Mato Grosso
+ES,perfumery,49,Espírito Santo
+MT,furniture_decor,49,Mato Grosso
+MT,auto,48,Mato Grosso
+SP,industry_commerce_and_business,48,São Paulo
+ES,cool_stuff,48,Espírito Santo
+CE,auto,48,Ceará
+SP,signaling_and_security,48,São Paulo
+MA,watches_gifts,47,Maranhão
+RS,consoles_games,47,Rio Grande do Sul
+MS,computers_accessories,46,Mato Grosso do Sul
+MS,health_beauty,46,Mato Grosso do Sul
+MG,home_construction,45,Minas Gerais
+MG,small_appliances,45,Minas Gerais
+PE,toys,45,Pernambuco
+GO,stationery,45,Goiás
+RN,health_beauty,45,Rio Grande do Norte
+AL,health_beauty,45,Alagoas
+PA,auto,45,Pará
+ES,stationery,45,Espírito Santo
+GO,baby,45,Goiás
+PR,office_furniture,44,Paraná
+CE,perfumery,44,Ceará
+ES,fashion_bags_accessories,44,Espírito Santo
+RJ,air_conditioning,44,Rio de Janeiro
+PI,health_beauty,43,Piauí
+SP,fashion_male_clothing,42,São Paulo
+SP,construction_tools_lights,42,São Paulo
+MT,toys,42,Mato Grosso
+RS,office_furniture,42,Rio Grande do Sul
+RS,luggage_accessories,42,Rio Grande do Sul
+PR,luggage_accessories,42,Paraná
+ES,garden_tools,42,Espírito Santo
+MT,housewares,42,Mato Grosso
+MS,furniture_decor,42,Mato Grosso do Sul
+DF,electronics,41,Distrito Federal
+GO,fashion_bags_accessories,40,Goiás
+RN,watches_gifts,40,Rio Grande do Norte
+MG,books_general_interest,39,Minas Gerais
+GO,garden_tools,39,Goiás
+MT,computers_accessories,39,Mato Grosso
+PR,construction_tools_construction,39,Paraná
+SP,construction_tools_safety,39,São Paulo
+RJ,books_general_interest,39,Rio de Janeiro
+BA,office_furniture,38,Bahia
+PE,perfumery,38,Pernambuco
+CE,housewares,38,Ceará
+MG,fashion_shoes,37,Minas Gerais
+SP,agro_industry_and_commerce,37,São Paulo
+PE,baby,37,Pernambuco
+MA,furniture_decor,37,Maranhão
+PE,stationery,37,Pernambuco
+MA,auto,37,Maranhão
+DF,stationery,37,Distrito Federal
+PA,cool_stuff,36,Pará
+RS,home_appliances,36,Rio Grande do Sul
+PR,home_appliances,36,Paraná
+PB,computers_accessories,36,Paraíba
+CE,cool_stuff,36,Ceará
+CE,electronics,36,Ceará
+RJ,home_construction,36,Rio de Janeiro
+SP,audio,35,São Paulo
+MT,cool_stuff,35,Mato Grosso
+PI,watches_gifts,35,Piauí
+DF,fashion_bags_accessories,34,Distrito Federal
+RS,construction_tools_construction,34,Rio Grande do Sul
+PB,watches_gifts,33,Paraíba
+PB,furniture_decor,33,Paraíba
+RJ,home_confort,33,Rio de Janeiro
+PE,garden_tools,33,Pernambuco
+MG,furniture_living_room,33,Minas Gerais
+DF,garden_tools,32,Distrito Federal
+MT,baby,32,Mato Grosso
+PA,bed_bath_table,32,Pará
+RS,small_appliances,32,Rio Grande do Sul
+PR,consoles_games,32,Paraná
+SC,office_furniture,32,Santa Catarina
+MS,housewares,32,Mato Grosso do Sul
+RJ,kitchen_dining_laundry_garden_furniture,32,Rio de Janeiro
+BA,home_appliances,32,Bahia
+RS,home_construction,32,Rio Grande do Sul
+AL,sports_leisure,31,Alagoas
+PR,small_appliances,31,Paraná
+PA,baby,31,Pará
+PI,computers_accessories,31,Piauí
+SC,luggage_accessories,31,Santa Catarina
+SP,christmas_supplies,31,São Paulo
+MA,bed_bath_table,30,Maranhão
+PR,musical_instruments,30,Paraná
+MS,toys,30,Mato Grosso do Sul
+SE,sports_leisure,30,Sergipe
+MG,home_confort,30,Minas Gerais
+PA,housewares,30,Pará
+RJ,home_appliances_2,29,Rio de Janeiro
+CE,garden_tools,29,Ceará
+PE,electronics,29,Pernambuco
+PE,fashion_bags_accessories,29,Pernambuco
+PB,bed_bath_table,29,Paraíba
+PI,sports_leisure,29,Piauí
+DF,pet_shop,29,Distrito Federal
+PI,telephony,29,Piauí
+PA,fashion_bags_accessories,29,Pará
+RJ,costruction_tools_garden,29,Rio de Janeiro
+AL,watches_gifts,29,Alagoas
+SE,computers_accessories,29,Sergipe
+MS,watches_gifts,28,Mato Grosso do Sul
+RN,furniture_decor,28,Rio Grande do Norte
+CE,stationery,28,Ceará
+PR,books_general_interest,28,Paraná
+CE,baby,28,Ceará
+BA,musical_instruments,28,Bahia
+PA,perfumery,28,Pará
+PB,sports_leisure,28,Paraíba
+AL,computers_accessories,28,Alagoas
+MG,market_place,28,Minas Gerais
+RS,musical_instruments,27,Rio Grande do Sul
+BA,luggage_accessories,27,Bahia
+PI,toys,27,Piauí
+TO,health_beauty,27,Tocantins
+SP,art,27,São Paulo
+MS,baby,27,Mato Grosso do Sul
+PI,bed_bath_table,27,Piauí
+RN,bed_bath_table,26,Rio Grande do Norte
+PI,auto,26,Piauí
+MS,telephony,26,Mato Grosso do Sul
+SE,health_beauty,25,Sergipe
+SC,consoles_games,25,Santa Catarina
+RJ,food_drink,25,Rio de Janeiro
+RJ,fashion_shoes,25,Rio de Janeiro
+MT,stationery,25,Mato Grosso
+PB,telephony,25,Paraíba
+RS,books_general_interest,24,Rio Grande do Sul
+BA,consoles_games,24,Bahia
+GO,pet_shop,24,Goiás
+RN,computers_accessories,24,Rio Grande do Norte
+MA,baby,24,Maranhão
+PA,electronics,24,Pará
+AL,telephony,24,Alagoas
+SP,furniture_bedroom,24,São Paulo
+AL,furniture_decor,24,Alagoas
+TO,watches_gifts,24,Tocantins
+MS,auto,24,Mato Grosso do Sul
+RO,health_beauty,24,Rondônia
+PA,toys,24,Pará
+RN,housewares,23,Rio Grande do Norte
+MA,perfumery,23,Maranhão
+SE,telephony,23,Sergipe
+TO,sports_leisure,23,Tocantins
+RN,toys,23,Rio Grande do Norte
+ES,pet_shop,23,Espírito Santo
+MA,cool_stuff,22,Maranhão
+CE,fashion_bags_accessories,22,Ceará
+MA,housewares,22,Maranhão
+PE,pet_shop,22,Pernambuco
+CE,office_furniture,22,Ceará
+RJ,fixed_telephony,22,Rio de Janeiro
+MT,garden_tools,22,Mato Grosso
+SC,small_appliances,22,Santa Catarina
+PB,auto,22,Paraíba
+PA,stationery,22,Pará
+SC,musical_instruments,22,Santa Catarina
+MT,electronics,22,Mato Grosso
+AL,auto,22,Alagoas
+MS,cool_stuff,22,Mato Grosso do Sul
+RJ,drinks,22,Rio de Janeiro
+RJ,market_place,21,Rio de Janeiro
+PB,cool_stuff,21,Paraíba
+MS,pet_shop,21,Mato Grosso do Sul
+SC,home_construction,21,Santa Catarina
+CE,luggage_accessories,21,Ceará
+SP,books_imported,21,São Paulo
+SP,computers,21,São Paulo
+SP,fashion_underwear_beach,21,São Paulo
+SP,costruction_tools_tools,21,São Paulo
+RJ,audio,21,Rio de Janeiro
+SC,construction_tools_construction,21,Santa Catarina
+ES,office_furniture,20,Espírito Santo
+MG,construction_tools_safety,20,Minas Gerais
+MG,kitchen_dining_laundry_garden_furniture,20,Minas Gerais
+DF,luggage_accessories,20,Distrito Federal
+RJ,books_technical,20,Rio de Janeiro
+DF,small_appliances,20,Distrito Federal
+GO,electronics,20,Goiás
+MT,perfumery,20,Mato Grosso
+MG,costruction_tools_garden,20,Minas Gerais
+SE,auto,20,Sergipe
+MA,toys,20,Maranhão
+BA,construction_tools_construction,20,Bahia
+MA,fashion_bags_accessories,20,Maranhão
+SC,home_appliances,20,Santa Catarina
+RJ,agro_industry_and_commerce,19,Rio de Janeiro
+RN,cool_stuff,19,Rio Grande do Norte
+GO,office_furniture,19,Goiás
+RN,sports_leisure,19,Rio Grande do Norte
+MG,books_technical,19,Minas Gerais
+MS,perfumery,19,Mato Grosso do Sul
+MG,home_appliances_2,19,Minas Gerais
+TO,computers_accessories,19,Tocantins
+DF,consoles_games,18,Distrito Federal
+RJ,food,18,Rio de Janeiro
+PR,fashion_shoes,18,Paraná
+SP,dvds_blu_ray,18,São Paulo
+MS,garden_tools,18,Mato Grosso do Sul
+GO,consoles_games,18,Goiás
+RS,furniture_living_room,18,Rio Grande do Sul
+PB,housewares,18,Paraíba
+PA,garden_tools,18,Pará
+SE,furniture_decor,18,Sergipe
+RN,telephony,18,Rio Grande do Norte
+PI,electronics,18,Piauí
+MS,electronics,18,Mato Grosso do Sul
+RO,computers_accessories,17,Rondônia
+PB,perfumery,17,Paraíba
+RN,perfumery,17,Rio Grande do Norte
+MG,food_drink,17,Minas Gerais
+RO,sports_leisure,17,Rondônia
+SC,books_general_interest,17,Santa Catarina
+MG,construction_tools_lights,17,Minas Gerais
+PA,office_furniture,17,Pará
+PR,home_construction,17,Paraná
+SP,small_appliances_home_oven_and_coffee,17,São Paulo
+AL,bed_bath_table,17,Alagoas
+ES,consoles_games,17,Espírito Santo
+PE,office_furniture,17,Pernambuco
+RN,auto,17,Rio Grande do Norte
+RJ,art,17,Rio de Janeiro
+RJ,construction_tools_lights,17,Rio de Janeiro
+TO,telephony,17,Tocantins
+MS,stationery,17,Mato Grosso do Sul
+ES,musical_instruments,17,Espírito Santo
+DF,books_general_interest,16,Distrito Federal
+MG,christmas_supplies,16,Minas Gerais
+TO,auto,16,Tocantins
+RO,telephony,16,Rondônia
+MG,audio,16,Minas Gerais
+MG,food,16,Minas Gerais
+MA,stationery,16,Maranhão
+BA,small_appliances,16,Bahia
+SE,watches_gifts,16,Sergipe
+PE,consoles_games,15,Pernambuco
+PI,cool_stuff,15,Piauí
+RJ,construction_tools_safety,15,Rio de Janeiro
+SE,cool_stuff,15,Sergipe
+SP,party_supplies,15,São Paulo
+AM,health_beauty,15,Amazonas
+BA,furniture_living_room,15,Bahia
+PB,toys,15,Paraíba
+RO,toys,14,Rondônia
+PB,stationery,14,Paraíba
+RS,market_place,14,Rio Grande do Sul
+TO,cool_stuff,14,Tocantins
+TO,furniture_decor,14,Tocantins
+PR,food_drink,14,Paraná
+RN,baby,14,Rio Grande do Norte
+PI,housewares,14,Piauí
+RN,garden_tools,14,Rio Grande do Norte
+RJ,fashion_underwear_beach,14,Rio de Janeiro
+MT,office_furniture,14,Mato Grosso
+RS,signaling_and_security,14,Rio Grande do Sul
+MG,air_conditioning,14,Minas Gerais
+MG,fashion_male_clothing,14,Minas Gerais
+AM,telephony,14,Amazonas
+PA,consoles_games,14,Pará
+MG,fixed_telephony,14,Minas Gerais
+MT,pet_shop,14,Mato Grosso
+PB,electronics,13,Paraíba
+TO,perfumery,13,Tocantins
+SP,fashio_female_clothing,13,São Paulo
+AL,cool_stuff,13,Alagoas
+SC,home_appliances_2,13,Santa Catarina
+MG,fashion_underwear_beach,13,Minas Gerais
+MG,drinks,13,Minas Gerais
+RS,fixed_telephony,13,Rio Grande do Sul
+RJ,furniture_bedroom,13,Rio de Janeiro
+ES,home_appliances,13,Espírito Santo
+PR,books_technical,13,Paraná
+PR,audio,13,Paraná
+DF,office_furniture,13,Distrito Federal
+RJ,industry_commerce_and_business,13,Rio de Janeiro
+CE,pet_shop,13,Ceará
+PI,furniture_decor,13,Piauí
+PR,furniture_living_room,13,Paraná
+RO,watches_gifts,13,Rondônia
+RO,bed_bath_table,13,Rondônia
+CE,consoles_games,13,Ceará
+RJ,signaling_and_security,13,Rio de Janeiro
+PI,perfumery,13,Piauí
+RO,furniture_decor,13,Rondônia
+PE,luggage_accessories,13,Pernambuco
+PB,fashion_bags_accessories,13,Paraíba
+RS,construction_tools_lights,13,Rio Grande do Sul
+MA,office_furniture,13,Maranhão
+ES,home_construction,12,Espírito Santo
+PI,garden_tools,12,Piauí
+DF,audio,12,Distrito Federal
+PR,fashion_male_clothing,12,Paraná
+GO,home_construction,12,Goiás
+ES,books_technical,12,Espírito Santo
+MS,fashion_bags_accessories,12,Mato Grosso do Sul
+MT,fashion_bags_accessories,12,Mato Grosso
+ES,luggage_accessories,12,Espírito Santo
+GO,books_general_interest,12,Goiás
+PR,food,12,Paraná
+RJ,computers,12,Rio de Janeiro
+RS,audio,12,Rio Grande do Sul
+BA,books_general_interest,12,Bahia
+RS,industry_commerce_and_business,12,Rio Grande do Sul
+RS,home_appliances_2,12,Rio Grande do Sul
+RS,home_confort,12,Rio Grande do Sul
+PB,baby,12,Paraíba
+RN,stationery,12,Rio Grande do Norte
+RO,cool_stuff,12,Rondônia
+BA,audio,12,Bahia
+SP,arts_and_craftmanship,12,São Paulo
+SE,bed_bath_table,12,Sergipe
+MG,industry_commerce_and_business,12,Minas Gerais
+AM,sports_leisure,12,Amazonas
+AL,electronics,12,Alagoas
+SP,music,12,São Paulo
+TO,toys,12,Tocantins
+TO,housewares,12,Tocantins
+SC,furniture_living_room,11,Santa Catarina
+PR,market_place,11,Paraná
+DF,home_appliances,11,Distrito Federal
+ES,furniture_living_room,11,Espírito Santo
+ES,food,11,Espírito Santo
+RJ,dvds_blu_ray,11,Rio de Janeiro
+RN,electronics,11,Rio Grande do Norte
+SC,construction_tools_safety,11,Santa Catarina
+AL,perfumery,11,Alagoas
+BA,home_construction,11,Bahia
+AL,toys,11,Alagoas
+PB,garden_tools,11,Paraíba
+MG,agro_industry_and_commerce,11,Minas Gerais
+SE,garden_tools,11,Sergipe
+GO,luggage_accessories,11,Goiás
+PA,pet_shop,11,Pará
+PE,musical_instruments,11,Pernambuco
+GO,home_appliances,11,Goiás
+PR,home_appliances_2,11,Paraná
+RS,fashion_shoes,10,Rio Grande do Sul
+TO,bed_bath_table,10,Tocantins
+MG,small_appliances_home_oven_and_coffee,10,Minas Gerais
+MA,garden_tools,10,Maranhão
+SP,cine_photo,10,São Paulo
+PE,construction_tools_construction,10,Pernambuco
+PE,fashion_shoes,10,Pernambuco
+AP,health_beauty,10,Amapá
+PR,air_conditioning,10,Paraná
+SE,toys,10,Sergipe
+AM,computers_accessories,10,Amazonas
+AM,watches_gifts,10,Amazonas
+PI,baby,10,Piauí
+SE,electronics,10,Sergipe
+SC,market_place,10,Santa Catarina
+SP,fashion_sport,10,São Paulo
+PR,kitchen_dining_laundry_garden_furniture,10,Paraná
+PR,agro_industry_and_commerce,10,Paraná
+ES,construction_tools_construction,10,Espírito Santo
+BA,books_technical,10,Bahia
+BA,computers,10,Bahia
+RO,auto,10,Rondônia
+RO,baby,10,Rondônia
+RS,books_technical,10,Rio Grande do Sul
+AL,garden_tools,10,Alagoas
+BA,food,9,Bahia
+RN,pet_shop,9,Rio Grande do Norte
+PR,construction_tools_safety,9,Paraná
+CE,construction_tools_construction,9,Ceará
+RS,air_conditioning,9,Rio Grande do Sul
+MS,luggage_accessories,9,Mato Grosso do Sul
+GO,furniture_living_room,9,Goiás
+SC,industry_commerce_and_business,9,Santa Catarina
+PA,home_appliances,9,Pará
+AC,sports_leisure,9,Acre
+GO,small_appliances,9,Goiás
+MG,signaling_and_security,9,Minas Gerais
+GO,musical_instruments,9,Goiás
+PA,musical_instruments,9,Pará
+RS,kitchen_dining_laundry_garden_furniture,9,Rio Grande do Sul
+BA,home_confort,9,Bahia
+SC,christmas_supplies,9,Santa Catarina
+SC,books_technical,9,Santa Catarina
+MG,art,9,Minas Gerais
+MS,construction_tools_construction,9,Mato Grosso do Sul
+RJ,fashion_male_clothing,9,Rio de Janeiro
+RJ,christmas_supplies,9,Rio de Janeiro
+MA,musical_instruments,9,Maranhão
+MA,electronics,9,Maranhão
+RO,pet_shop,8,Rondônia
+RS,drinks,8,Rio Grande do Sul
+RS,agro_industry_and_commerce,8,Rio Grande do Sul
+AL,stationery,8,Alagoas
+RS,fashion_male_clothing,8,Rio Grande do Sul
+MT,home_appliances,8,Mato Grosso
+RJ,music,8,Rio de Janeiro
+SC,food,8,Santa Catarina
+MT,luggage_accessories,8,Mato Grosso
+MA,luggage_accessories,8,Maranhão
+SE,housewares,8,Sergipe
+TO,garden_tools,8,Tocantins
+PB,pet_shop,8,Paraíba
+MG,computers,8,Minas Gerais
+MG,costruction_tools_tools,8,Minas Gerais
+SE,baby,8,Sergipe
+GO,construction_tools_construction,8,Goiás
+PI,stationery,8,Piauí
+SP,diapers_and_hygiene,8,São Paulo
+MA,pet_shop,8,Maranhão
+PA,small_appliances,8,Pará
+PR,drinks,8,Paraná
+SC,drinks,8,Santa Catarina
+AL,housewares,8,Alagoas
+BA,fashion_male_clothing,8,Bahia
+MT,consoles_games,8,Mato Grosso
+CE,home_construction,8,Ceará
+RO,fashion_bags_accessories,8,Rondônia
+RN,books_general_interest,8,Rio Grande do Norte
+BA,fixed_telephony,8,Bahia
+SC,home_confort,8,Santa Catarina
+ES,books_general_interest,8,Espírito Santo
+DF,musical_instruments,8,Distrito Federal
+AL,baby,7,Alagoas
+AC,furniture_decor,7,Acre
+RO,stationery,7,Rondônia
+BA,fashion_shoes,7,Bahia
+BA,costruction_tools_garden,7,Bahia
+MT,small_appliances,7,Mato Grosso
+ES,market_place,7,Espírito Santo
+GO,fashion_shoes,7,Goiás
+PR,construction_tools_lights,7,Paraná
+PR,home_confort,7,Paraná
+SC,fashion_shoes,7,Santa Catarina
+DF,home_construction,7,Distrito Federal
+SP,flowers,7,São Paulo
+MT,construction_tools_construction,7,Mato Grosso
+RS,food,7,Rio Grande do Sul
+CE,small_appliances,7,Ceará
+RN,construction_tools_construction,7,Rio Grande do Norte
+CE,musical_instruments,7,Ceará
+RN,fashion_bags_accessories,7,Rio Grande do Norte
+SC,audio,7,Santa Catarina
+MG,fashio_female_clothing,7,Minas Gerais
+PA,luggage_accessories,7,Pará
+AM,toys,7,Amazonas
+SE,fashion_bags_accessories,7,Sergipe
+PE,home_confort,7,Pernambuco
+PI,pet_shop,7,Piauí
+PI,office_furniture,7,Piauí
+PE,books_general_interest,7,Pernambuco
+PE,computers,7,Pernambuco
+PB,consoles_games,7,Paraíba
+AM,bed_bath_table,7,Amazonas
+PB,luggage_accessories,7,Paraíba
+SE,perfumery,7,Sergipe
+RS,cine_photo,7,Rio Grande do Sul
+CE,costruction_tools_garden,7,Ceará
+TO,fashion_bags_accessories,7,Tocantins
+MS,musical_instruments,7,Mato Grosso do Sul
+TO,baby,6,Tocantins
+SC,construction_tools_lights,6,Santa Catarina
+MG,books_imported,6,Minas Gerais
+MG,arts_and_craftmanship,6,Minas Gerais
+TO,electronics,6,Tocantins
+DF,furniture_living_room,6,Distrito Federal
+DF,fashion_shoes,6,Distrito Federal
+RJ,costruction_tools_tools,6,Rio de Janeiro
+ES,audio,6,Espírito Santo
+SC,art,6,Santa Catarina
+BA,construction_tools_safety,6,Bahia
+BA,construction_tools_lights,6,Bahia
+DF,construction_tools_construction,6,Distrito Federal
+AL,luggage_accessories,6,Alagoas
+RN,consoles_games,6,Rio Grande do Norte
+DF,art,6,Distrito Federal
+PR,music,6,Paraná
+PR,industry_commerce_and_business,6,Paraná
+PR,fashion_underwear_beach,6,Paraná
+PE,costruction_tools_garden,6,Pernambuco
+GO,audio,6,Goiás
+ES,fixed_telephony,6,Espírito Santo
+CE,home_appliances,6,Ceará
+AL,consoles_games,6,Alagoas
+MS,consoles_games,6,Mato Grosso do Sul
+PR,costruction_tools_tools,6,Paraná
+PR,christmas_supplies,6,Paraná
+RO,luggage_accessories,6,Rondônia
+GO,industry_commerce_and_business,6,Goiás
+GO,construction_tools_safety,6,Goiás
+MG,music,6,Minas Gerais
+AP,watches_gifts,6,Amapá
+AP,sports_leisure,6,Amapá
+RO,electronics,6,Rondônia
+RO,perfumery,6,Rondônia
+RS,costruction_tools_tools,6,Rio Grande do Sul
+RS,costruction_tools_garden,6,Rio Grande do Sul
+CE,books_general_interest,6,Ceará
+MS,home_construction,6,Mato Grosso do Sul
+PE,home_construction,6,Pernambuco
+SE,consoles_games,6,Sergipe
+PI,consoles_games,6,Piauí
+AP,computers_accessories,6,Amapá
+AM,stationery,6,Amazonas
+BA,signaling_and_security,6,Bahia
+AC,health_beauty,6,Acre
+RS,art,6,Rio Grande do Sul
+RR,sports_leisure,6,Roraima
+AC,computers_accessories,6,Acre
+CE,computers,5,Ceará
+PB,home_construction,5,Paraíba
+TO,office_furniture,5,Tocantins
+MT,books_technical,5,Mato Grosso
+RS,computers,5,Rio Grande do Sul
+RS,christmas_supplies,5,Rio Grande do Sul
+CE,construction_tools_safety,5,Ceará
+BA,air_conditioning,5,Bahia
+BA,art,5,Bahia
+MA,home_construction,5,Maranhão
+GO,market_place,5,Goiás
+PE,home_appliances,5,Pernambuco
+MA,consoles_games,5,Maranhão
+AM,baby,5,Amazonas
+SC,signaling_and_security,5,Santa Catarina
+BA,drinks,5,Bahia
+PA,books_general_interest,5,Pará
+MG,tablets_printing_image,5,Minas Gerais
+RO,garden_tools,5,Rondônia
+PI,luggage_accessories,5,Piauí
+BA,home_appliances_2,5,Bahia
+RO,office_furniture,5,Rondônia
+CE,audio,5,Ceará
+GO,costruction_tools_garden,5,Goiás
+PI,musical_instruments,5,Piauí
+GO,costruction_tools_tools,5,Goiás
+SP,furniture_mattress_and_upholstery,5,São Paulo
+CE,food,5,Ceará
+RO,housewares,5,Rondônia
+SC,kitchen_dining_laundry_garden_furniture,5,Santa Catarina
+GO,signaling_and_security,5,Goiás
+SP,la_cuisine,5,São Paulo
+GO,home_confort,5,Goiás
+AC,telephony,5,Acre
+MT,home_construction,5,Mato Grosso
+DF,books_technical,5,Distrito Federal
+DF,christmas_supplies,5,Distrito Federal
+DF,industry_commerce_and_business,5,Distrito Federal
+AM,garden_tools,5,Amazonas
+SC,costruction_tools_garden,5,Santa Catarina
+PE,agro_industry_and_commerce,5,Pernambuco
+PB,office_furniture,5,Paraíba
+MT,food,5,Mato Grosso
+BA,christmas_supplies,5,Bahia
+SC,fixed_telephony,5,Santa Catarina
+SC,fashion_underwear_beach,5,Santa Catarina
+PR,small_appliances_home_oven_and_coffee,5,Paraná
+MS,small_appliances,5,Mato Grosso do Sul
+BA,food_drink,5,Bahia
+BA,fashion_underwear_beach,5,Bahia
+PR,costruction_tools_garden,5,Paraná
+GO,fashion_underwear_beach,5,Goiás
+GO,fixed_telephony,5,Goiás
+GO,agro_industry_and_commerce,5,Goiás
+GO,air_conditioning,5,Goiás
+SC,costruction_tools_tools,5,Santa Catarina
+RJ,tablets_printing_image,5,Rio de Janeiro
+DF,costruction_tools_garden,5,Distrito Federal
+DF,computers,5,Distrito Federal
+ES,air_conditioning,5,Espírito Santo
+ES,costruction_tools_garden,5,Espírito Santo
+RJ,furniture_mattress_and_upholstery,5,Rio de Janeiro
+RJ,flowers,5,Rio de Janeiro
+ES,home_confort,5,Espírito Santo
+DF,food,5,Distrito Federal
+BA,industry_commerce_and_business,4,Bahia
+MS,home_appliances,4,Mato Grosso do Sul
+PE,food,4,Pernambuco
+PE,food_drink,4,Pernambuco
+RS,food_drink,4,Rio Grande do Sul
+RS,dvds_blu_ray,4,Rio Grande do Sul
+PI,home_construction,4,Piauí
+MG,party_supplies,4,Minas Gerais
+GO,drinks,4,Goiás
+DF,market_place,4,Distrito Federal
+SP,tablets_printing_image,4,São Paulo
+AC,auto,4,Acre
+MS,office_furniture,4,Mato Grosso do Sul
+AC,watches_gifts,4,Acre
+DF,home_confort,4,Distrito Federal
+RJ,books_imported,4,Rio de Janeiro
+SC,cine_photo,4,Santa Catarina
+RJ,small_appliances_home_oven_and_coffee,4,Rio de Janeiro
+PB,computers,4,Paraíba
+MA,market_place,4,Maranhão
+PR,fixed_telephony,4,Paraná
+AM,housewares,4,Amazonas
+MS,construction_tools_lights,4,Mato Grosso do Sul
+SP,home_comfort_2,4,São Paulo
+RO,construction_tools_construction,4,Rondônia
+MT,construction_tools_safety,4,Mato Grosso
+MG,dvds_blu_ray,4,Minas Gerais
+AP,telephony,4,Amapá
+PA,fashion_shoes,4,Pará
+PI,costruction_tools_garden,4,Piauí
+AP,housewares,4,Amapá
+RR,computers_accessories,4,Roraima
+AM,pet_shop,4,Amazonas
+PE,audio,4,Pernambuco
+PI,home_appliances,4,Piauí
+PI,fashion_bags_accessories,4,Piauí
+GO,food,4,Goiás
+BA,market_place,4,Bahia
+PE,kitchen_dining_laundry_garden_furniture,4,Pernambuco
+MG,cine_photo,4,Minas Gerais
+AM,auto,4,Amazonas
+AP,bed_bath_table,4,Amapá
+PA,market_place,4,Pará
+PE,christmas_supplies,4,Pernambuco
+AC,electronics,4,Acre
+PE,books_technical,4,Pernambuco
+RR,health_beauty,4,Roraima
+AL,audio,4,Alagoas
+MS,food,4,Mato Grosso do Sul
+MS,fashion_shoes,4,Mato Grosso do Sul
+RS,construction_tools_safety,4,Rio Grande do Sul
+TO,pet_shop,4,Tocantins
+RR,telephony,4,Roraima
+MT,market_place,4,Mato Grosso
+MG,flowers,4,Minas Gerais
+AM,furniture_decor,4,Amazonas
+DF,kitchen_dining_laundry_garden_furniture,4,Distrito Federal
+AM,electronics,4,Amazonas
+RN,food_drink,4,Rio Grande do Norte
+ES,construction_tools_lights,4,Espírito Santo
+AM,cool_stuff,4,Amazonas
+ES,signaling_and_security,4,Espírito Santo
+PB,small_appliances,4,Paraíba
+PB,musical_instruments,4,Paraíba
+MG,furniture_bedroom,4,Minas Gerais
+MT,air_conditioning,4,Mato Grosso
+AL,fashion_bags_accessories,4,Alagoas
+ES,food_drink,4,Espírito Santo
+DF,food_drink,4,Distrito Federal
+MS,books_technical,4,Mato Grosso do Sul
+PB,fixed_telephony,4,Paraíba
+ES,fashion_shoes,4,Espírito Santo
+BA,furniture_bedroom,4,Bahia
+AL,fixed_telephony,4,Alagoas
+ES,tablets_printing_image,4,Espírito Santo
+RJ,cine_photo,4,Rio de Janeiro
+RN,office_furniture,4,Rio Grande do Norte
+MT,musical_instruments,4,Mato Grosso
+PR,dvds_blu_ray,4,Paraná
+PR,computers,4,Paraná
+MG,furniture_mattress_and_upholstery,3,Minas Gerais
+AP,toys,3,Amapá
+BA,kitchen_dining_laundry_garden_furniture,3,Bahia
+BA,agro_industry_and_commerce,3,Bahia
+PI,audio,3,Piauí
+PI,tablets_printing_image,3,Piauí
+RR,home_appliances,3,Roraima
+TO,home_appliances_2,3,Tocantins
+AC,housewares,3,Acre
+MS,agro_industry_and_commerce,3,Mato Grosso do Sul
+PB,industry_commerce_and_business,3,Paraíba
+MA,audio,3,Maranhão
+MA,books_general_interest,3,Maranhão
+MS,dvds_blu_ray,3,Mato Grosso do Sul
+CE,books_technical,3,Ceará
+MS,fashion_underwear_beach,3,Mato Grosso do Sul
+AC,bed_bath_table,3,Acre
+BA,tablets_printing_image,3,Bahia
+MT,audio,3,Mato Grosso
+PI,home_confort,3,Piauí
+PI,industry_commerce_and_business,3,Piauí
+PI,air_conditioning,3,Piauí
+RR,furniture_decor,3,Roraima
+PE,furniture_living_room,3,Pernambuco
+RS,fashion_underwear_beach,3,Rio Grande do Sul
+RS,la_cuisine,3,Rio Grande do Sul
+CE,agro_industry_and_commerce,3,Ceará
+MS,home_appliances_2,3,Mato Grosso do Sul
+PE,fixed_telephony,3,Pernambuco
+MA,books_technical,3,Maranhão
+AP,auto,3,Amapá
+MA,home_appliances,3,Maranhão
+PI,computers,3,Piauí
+SC,small_appliances_home_oven_and_coffee,3,Santa Catarina
+MA,computers,3,Maranhão
+PE,market_place,3,Pernambuco
+PE,small_appliances,3,Pernambuco
+TO,stationery,3,Tocantins
+AL,office_furniture,3,Alagoas
+AL,market_place,3,Alagoas
+AL,pet_shop,3,Alagoas
+CE,fixed_telephony,3,Ceará
+CE,fashion_shoes,3,Ceará
+AP,furniture_decor,3,Amapá
+PA,fashion_underwear_beach,3,Pará
+SC,agro_industry_and_commerce,3,Santa Catarina
+PB,books_general_interest,3,Paraíba
+AM,luggage_accessories,3,Amazonas
+AM,home_construction,3,Amazonas
+PB,construction_tools_safety,3,Paraíba
+RS,party_supplies,3,Rio Grande do Sul
+SC,fashion_sport,3,Santa Catarina
+SC,food_drink,3,Santa Catarina
+ES,small_appliances,3,Espírito Santo
+AL,fashion_shoes,3,Alagoas
+CE,home_appliances_2,3,Ceará
+CE,food_drink,3,Ceará
+CE,home_confort,3,Ceará
+PR,art,3,Paraná
+PA,computers,3,Pará
+GO,construction_tools_lights,3,Goiás
+GO,fashion_male_clothing,3,Goiás
+PR,signaling_and_security,3,Paraná
+SE,musical_instruments,3,Sergipe
+SE,office_furniture,3,Sergipe
+SE,pet_shop,3,Sergipe
+GO,books_technical,3,Goiás
+GO,christmas_supplies,3,Goiás
+PR,furniture_bedroom,3,Paraná
+MT,fashion_shoes,3,Mato Grosso
+DF,air_conditioning,3,Distrito Federal
+RN,small_appliances,3,Rio Grande do Norte
+RS,small_appliances_home_oven_and_coffee,3,Rio Grande do Sul
+SE,stationery,3,Sergipe
+ES,fashion_male_clothing,3,Espírito Santo
+SE,small_appliances,3,Sergipe
+PB,market_place,3,Paraíba
+ES,home_appliances_2,3,Espírito Santo
+AL,home_construction,3,Alagoas
+DF,construction_tools_safety,3,Distrito Federal
+ES,computers,3,Espírito Santo
+SP,fashion_childrens_clothes,3,São Paulo
+CE,market_place,3,Ceará
+ES,costruction_tools_tools,3,Espírito Santo
+ES,drinks,3,Espírito Santo
+BA,cine_photo,3,Bahia
+SE,market_place,3,Sergipe
+SE,luggage_accessories,3,Sergipe
+RJ,party_supplies,3,Rio de Janeiro
+AC,baby,3,Acre
+TO,consoles_games,3,Tocantins
+AP,electronics,3,Amapá
+SE,home_construction,3,Sergipe
+SE,industry_commerce_and_business,3,Sergipe
+MT,home_confort,3,Mato Grosso
+MT,furniture_living_room,3,Mato Grosso
+DF,dvds_blu_ray,3,Distrito Federal
+DF,drinks,3,Distrito Federal
+SC,computers,3,Santa Catarina
+MT,industry_commerce_and_business,3,Mato Grosso
+AC,perfumery,3,Acre
+AC,toys,3,Acre
+AC,stationery,2,Acre
+AL,furniture_living_room,2,Alagoas
+RS,books_imported,2,Rio Grande do Sul
+CE,drinks,2,Ceará
+TO,fixed_telephony,2,Tocantins
+RR,garden_tools,2,Roraima
+BA,small_appliances_home_oven_and_coffee,2,Bahia
+AL,computers,2,Alagoas
+AL,books_general_interest,2,Alagoas
+AC,books_general_interest,2,Acre
+TO,luggage_accessories,2,Tocantins
+AC,luggage_accessories,2,Acre
+AC,garden_tools,2,Acre
+MT,computers,2,Mato Grosso
+MT,kitchen_dining_laundry_garden_furniture,2,Mato Grosso
+MT,home_appliances_2,2,Mato Grosso
+RJ,fashion_sport,2,Rio de Janeiro
+DF,home_appliances_2,2,Distrito Federal
+DF,fixed_telephony,2,Distrito Federal
+DF,fashion_underwear_beach,2,Distrito Federal
+MT,construction_tools_lights,2,Mato Grosso
+RJ,diapers_and_hygiene,2,Rio de Janeiro
+ES,agro_industry_and_commerce,2,Espírito Santo
+DF,signaling_and_security,2,Distrito Federal
+DF,construction_tools_lights,2,Distrito Federal
+RN,furniture_bedroom,2,Rio Grande do Norte
+RN,food,2,Rio Grande do Norte
+AL,home_appliances_2,2,Alagoas
+AL,home_appliances,2,Alagoas
+AM,consoles_games,2,Amazonas
+MG,la_cuisine,2,Minas Gerais
+PA,art,2,Pará
+PA,agro_industry_and_commerce,2,Pará
+ES,christmas_supplies,2,Espírito Santo
+RN,costruction_tools_garden,2,Rio Grande do Norte
+RO,art,2,Rondônia
+RN,musical_instruments,2,Rio Grande do Norte
+RN,market_place,2,Rio Grande do Norte
+RN,kitchen_dining_laundry_garden_furniture,2,Rio Grande do Norte
+RN,home_appliances_2,2,Rio Grande do Norte
+RN,home_appliances,2,Rio Grande do Norte
+ES,party_supplies,2,Espírito Santo
+SC,furniture_mattress_and_upholstery,2,Santa Catarina
+SC,furniture_bedroom,2,Santa Catarina
+SC,fashion_male_clothing,2,Santa Catarina
+SC,dvds_blu_ray,2,Santa Catarina
+ES,industry_commerce_and_business,2,Espírito Santo
+GO,computers,2,Goiás
+GO,art,2,Goiás
+ES,flowers,2,Espírito Santo
+PR,tablets_printing_image,2,Paraná
+PR,party_supplies,2,Paraná
+BA,fashion_sport,2,Bahia
+CE,furniture_living_room,2,Ceará
+MT,agro_industry_and_commerce,2,Mato Grosso
+MS,christmas_supplies,2,Mato Grosso do Sul
+MS,books_general_interest,2,Mato Grosso do Sul
+PA,construction_tools_construction,2,Pará
+PA,cine_photo,2,Pará
+PA,books_technical,2,Pará
+PA,books_imported,2,Pará
+GO,fashio_female_clothing,2,Goiás
+PR,cine_photo,2,Paraná
+PR,books_imported,2,Paraná
+GO,kitchen_dining_laundry_garden_furniture,2,Goiás
+PR,fashio_female_clothing,2,Paraná
+PR,diapers_and_hygiene,2,Paraná
+MT,tablets_printing_image,2,Mato Grosso
+MT,signaling_and_security,2,Mato Grosso
+RO,computers,2,Rondônia
+RO,christmas_supplies,2,Rondônia
+RO,home_appliances,2,Rondônia
+AP,garden_tools,2,Amapá
+AP,fixed_telephony,2,Amapá
+SC,la_cuisine,2,Santa Catarina
+GO,home_appliances_2,2,Goiás
+PI,market_place,2,Piauí
+PA,home_construction,2,Pará
+PA,fashion_male_clothing,2,Pará
+AP,stationery,2,Amapá
+AP,musical_instruments,2,Amapá
+PI,agro_industry_and_commerce,2,Piauí
+PE,tablets_printing_image,2,Pernambuco
+PI,furniture_living_room,2,Piauí
+PI,fixed_telephony,2,Piauí
+CE,industry_commerce_and_business,2,Ceará
+BA,costruction_tools_tools,2,Bahia
+RR,cool_stuff,2,Roraima
+RR,bed_bath_table,2,Roraima
+PE,industry_commerce_and_business,2,Pernambuco
+SC,party_supplies,2,Santa Catarina
+PI,books_technical,2,Piauí
+PE,fashion_underwear_beach,2,Pernambuco
+AM,perfumery,2,Amazonas
+AM,office_furniture,2,Amazonas
+PA,tablets_printing_image,2,Pará
+AP,art,2,Amapá
+SE,furniture_bedroom,2,Sergipe
+PE,construction_tools_safety,2,Pernambuco
+MA,home_confort,2,Maranhão
+PE,home_appliances_2,2,Pernambuco
+RS,flowers,2,Rio Grande do Sul
+CE,air_conditioning,2,Ceará
+MS,market_place,2,Mato Grosso do Sul
+MS,furniture_living_room,2,Mato Grosso do Sul
+MG,fashion_sport,2,Minas Gerais
+MA,furniture_living_room,2,Maranhão
+MA,food_drink,2,Maranhão
+PE,dvds_blu_ray,2,Pernambuco
+PB,fashion_shoes,2,Paraíba
+MA,small_appliances,2,Maranhão
+SE,furniture_living_room,2,Sergipe
+AP,cool_stuff,2,Amapá
+TO,construction_tools_lights,2,Tocantins
+TO,books_technical,2,Tocantins
+AM,home_appliances,2,Amazonas
+PB,home_appliances,2,Paraíba
+PB,furniture_living_room,2,Paraíba
+PB,food,2,Paraíba
+MS,costruction_tools_garden,2,Mato Grosso do Sul
+MS,construction_tools_safety,2,Mato Grosso do Sul
+MT,books_general_interest,2,Mato Grosso
+CE,christmas_supplies,2,Ceará
+TO,furniture_living_room,2,Tocantins
+AC,fashion_shoes,2,Acre
+AC,fashion_bags_accessories,1,Acre
+AC,furniture_living_room,1,Acre
+AC,market_place,1,Acre
+TO,home_appliances,1,Tocantins
+TO,home_confort,1,Tocantins
+TO,home_construction,1,Tocantins
+TO,industry_commerce_and_business,1,Tocantins
+TO,kitchen_dining_laundry_garden_furniture,1,Tocantins
+AL,air_conditioning,1,Alagoas
+TO,books_general_interest,1,Tocantins
+TO,computers,1,Tocantins
+TO,fashion_shoes,1,Tocantins
+CE,construction_tools_lights,1,Ceará
+CE,costruction_tools_tools,1,Ceará
+CE,diapers_and_hygiene,1,Ceará
+CE,fashion_male_clothing,1,Ceará
+RS,cds_dvds_musicals,1,Rio Grande do Sul
+RR,office_furniture,1,Roraima
+RR,perfumery,1,Roraima
+RR,stationery,1,Roraima
+RR,watches_gifts,1,Roraima
+RS,fashion_sport,1,Rio Grande do Sul
+RO,market_place,1,Rondônia
+RO,musical_instruments,1,Rondônia
+RO,security_and_services,1,Rondônia
+RO,small_appliances,1,Rondônia
+RO,small_appliances_home_oven_and_coffee,1,Rondônia
+RR,auto,1,Roraima
+RR,baby,1,Roraima
+RR,electronics,1,Roraima
+RS,furniture_bedroom,1,Rio Grande do Sul
+BA,home_comfort_2,1,Bahia
+RS,home_comfort_2,1,Rio Grande do Sul
+RS,music,1,Rio Grande do Sul
+BA,fashio_female_clothing,1,Bahia
+BA,fashion_childrens_clothes,1,Bahia
+CE,kitchen_dining_laundry_garden_furniture,1,Ceará
+RO,costruction_tools_garden,1,Rondônia
+RO,dvds_blu_ray,1,Rondônia
+RO,fashion_shoes,1,Rondônia
+RO,food,1,Rondônia
+RO,furniture_living_room,1,Rondônia
+RO,home_confort,1,Rondônia
+RO,industry_commerce_and_business,1,Rondônia
+RO,books_general_interest,1,Rondônia
+RO,consoles_games,1,Rondônia
+RO,construction_tools_safety,1,Rondônia
+RS,tablets_printing_image,1,Rio Grande do Sul
+SC,air_conditioning,1,Santa Catarina
+BA,books_imported,1,Bahia
+RN,furniture_mattress_and_upholstery,1,Rio Grande do Norte
+RN,home_confort,1,Rio Grande do Norte
+RN,home_construction,1,Rio Grande do Norte
+RN,industry_commerce_and_business,1,Rio Grande do Norte
+RN,luggage_accessories,1,Rio Grande do Norte
+RN,signaling_and_security,1,Rio Grande do Norte
+RO,agro_industry_and_commerce,1,Rondônia
+CE,tablets_printing_image,1,Ceará
+DF,arts_and_craftmanship,1,Distrito Federal
+RN,construction_tools_safety,1,Rio Grande do Norte
+RN,dvds_blu_ray,1,Rio Grande do Norte
+RN,fashion_shoes,1,Rio Grande do Norte
+DF,cine_photo,1,Distrito Federal
+RN,art,1,Rio Grande do Norte
+RN,audio,1,Rio Grande do Norte
+RN,books_technical,1,Rio Grande do Norte
+RN,christmas_supplies,1,Rio Grande do Norte
+CE,music,1,Ceará
+SC,arts_and_craftmanship,1,Santa Catarina
+SC,books_imported,1,Santa Catarina
+DF,fashio_female_clothing,1,Distrito Federal
+DF,furniture_bedroom,1,Distrito Federal
+DF,furniture_mattress_and_upholstery,1,Distrito Federal
+RJ,home_comfort_2,1,Rio de Janeiro
+RJ,fashion_childrens_clothes,1,Rio de Janeiro
+DF,music,1,Distrito Federal
+DF,party_supplies,1,Distrito Federal
+DF,security_and_services,1,Distrito Federal
+ES,fashio_female_clothing,1,Espírito Santo
+DF,small_appliances_home_oven_and_coffee,1,Distrito Federal
+ES,art,1,Espírito Santo
+RJ,fashio_female_clothing,1,Rio de Janeiro
+ES,furniture_bedroom,1,Espírito Santo
+ES,home_comfort_2,1,Espírito Santo
+RJ,cds_dvds_musicals,1,Rio de Janeiro
+ES,cine_photo,1,Espírito Santo
+SC,fashio_female_clothing,1,Santa Catarina
+SC,fashion_childrens_clothes,1,Santa Catarina
+ES,fashion_underwear_beach,1,Espírito Santo
+GO,cine_photo,1,Goiás
+PR,fashion_sport,1,Paraná
+PR,home_comfort_2,1,Paraná
+ES,kitchen_dining_laundry_garden_furniture,1,Espírito Santo
+GO,flowers,1,Goiás
+GO,la_cuisine,1,Goiás
+GO,dvds_blu_ray,1,Goiás
+PI,party_supplies,1,Piauí
+GO,furniture_bedroom,1,Goiás
+GO,furniture_mattress_and_upholstery,1,Goiás
+GO,home_comfort_2,1,Goiás
+AP,pet_shop,1,Amapá
+PI,drinks,1,Piauí
+PI,dvds_blu_ray,1,Piauí
+PI,fashion_shoes,1,Piauí
+PI,fashion_underwear_beach,1,Piauí
+PI,food,1,Piauí
+PI,food_drink,1,Piauí
+PI,home_appliances_2,1,Piauí
+GO,party_supplies,1,Goiás
+GO,tablets_printing_image,1,Goiás
+PI,art,1,Piauí
+PI,books_general_interest,1,Piauí
+PI,construction_tools_lights,1,Piauí
+SE,books_general_interest,1,Sergipe
+SE,books_imported,1,Sergipe
+SE,computers,1,Sergipe
+SE,construction_tools_construction,1,Sergipe
+SE,construction_tools_lights,1,Sergipe
+SE,construction_tools_safety,1,Sergipe
+MA,construction_tools_construction,1,Maranhão
+MA,construction_tools_lights,1,Maranhão
+PE,signaling_and_security,1,Pernambuco
+PE,small_appliances_home_oven_and_coffee,1,Pernambuco
+GO,music,1,Goiás
+SE,fixed_telephony,1,Sergipe
+SE,food,1,Sergipe
+SE,food_drink,1,Sergipe
+AM,tablets_printing_image,1,Amazonas
+AP,agro_industry_and_commerce,1,Amapá
+AP,computers,1,Amapá
+AP,consoles_games,1,Amapá
+PE,flowers,1,Pernambuco
+MA,air_conditioning,1,Maranhão
+MA,books_imported,1,Maranhão
+MA,cds_dvds_musicals,1,Maranhão
+MA,christmas_supplies,1,Maranhão
+MA,cine_photo,1,Maranhão
+PE,cine_photo,1,Pernambuco
+PE,construction_tools_lights,1,Pernambuco
+PE,costruction_tools_tools,1,Pernambuco
+PB,signaling_and_security,1,Paraíba
+PE,air_conditioning,1,Pernambuco
+PE,art,1,Pernambuco
+MA,fashion_male_clothing,1,Maranhão
+MA,fashion_shoes,1,Maranhão
+MA,fashion_sport,1,Maranhão
+MA,fixed_telephony,1,Maranhão
+SE,home_appliances,1,Sergipe
+SE,home_appliances_2,1,Sergipe
+SE,home_confort,1,Sergipe
+MA,tablets_printing_image,1,Maranhão
+PB,fashio_female_clothing,1,Paraíba
+PB,home_confort,1,Paraíba
+PB,kitchen_dining_laundry_garden_furniture,1,Paraíba
+SE,signaling_and_security,1,Sergipe
+AM,fashion_bags_accessories,1,Amazonas
+AM,fixed_telephony,1,Amazonas
+AM,food,1,Amazonas
+AM,home_appliances_2,1,Amazonas
+AM,market_place,1,Amazonas
+AM,music,1,Amazonas
+PB,air_conditioning,1,Paraíba
+PB,art,1,Paraíba
+PB,audio,1,Paraíba
+PB,construction_tools_construction,1,Paraíba
+PB,costruction_tools_garden,1,Paraíba
+PB,costruction_tools_tools,1,Paraíba
+PB,diapers_and_hygiene,1,Paraíba
+MA,industry_commerce_and_business,1,Maranhão
+PA,kitchen_dining_laundry_garden_furniture,1,Pará
+PA,signaling_and_security,1,Pará
+PB,agro_industry_and_commerce,1,Paraíba
+AM,musical_instruments,1,Amazonas
+SP,cds_dvds_musicals,1,São Paulo
+AM,air_conditioning,1,Amazonas
+AM,art,1,Amazonas
+AM,audio,1,Amazonas
+AM,books_general_interest,1,Amazonas
+AM,computers,1,Amazonas
+MG,home_comfort_2,1,Minas Gerais
+PA,drinks,1,Pará
+PA,fashion_sport,1,Pará
+PA,fixed_telephony,1,Pará
+PA,food_drink,1,Pará
+PA,furniture_living_room,1,Pará
+MG,diapers_and_hygiene,1,Minas Gerais
+PA,christmas_supplies,1,Pará
+PA,construction_tools_lights,1,Pará
+PA,costruction_tools_garden,1,Pará
+PA,costruction_tools_tools,1,Pará
+MS,computers,1,Mato Grosso do Sul
+MT,small_appliances_home_oven_and_coffee,1,Mato Grosso
+PA,audio,1,Pará
+AM,costruction_tools_garden,1,Amazonas
+AM,drinks,1,Amazonas
+AL,home_confort,1,Alagoas
+AL,industry_commerce_and_business,1,Alagoas
+AL,kitchen_dining_laundry_garden_furniture,1,Alagoas
+MT,fashion_male_clothing,1,Mato Grosso
+MT,furniture_bedroom,1,Mato Grosso
+MS,art,1,Mato Grosso do Sul
+MS,audio,1,Mato Grosso do Sul
+MS,fixed_telephony,1,Mato Grosso do Sul
+MS,flowers,1,Mato Grosso do Sul
+MS,food_drink,1,Mato Grosso do Sul
+MS,furniture_bedroom,1,Mato Grosso do Sul
+MT,christmas_supplies,1,Mato Grosso
+MT,cine_photo,1,Mato Grosso
+MT,costruction_tools_tools,1,Mato Grosso
+MT,drinks,1,Mato Grosso
+MT,fashio_female_clothing,1,Mato Grosso
+AL,musical_instruments,1,Alagoas
+AL,construction_tools_construction,1,Alagoas
+AL,drinks,1,Alagoas
+AL,dvds_blu_ray,1,Alagoas
+MS,signaling_and_security,1,Mato Grosso do Sul
+MS,small_appliances_home_oven_and_coffee,1,Mato Grosso do Sul
+MS,tablets_printing_image,1,Mato Grosso do Sul
+MT,art,1,Mato Grosso
+MS,costruction_tools_tools,1,Mato Grosso do Sul
+MS,drinks,1,Mato Grosso do Sul
+TO,market_place,1,Tocantins
+TO,musical_instruments,1,Tocantins
+TO,small_appliances_home_oven_and_coffee,1,Tocantins
+MS,home_confort,1,Mato Grosso do Sul
+MS,industry_commerce_and_business,1,Mato Grosso do Sul
+AL,food,1,Alagoas
+AL,food_drink,1,Alagoas
+TO,audio,1,Tocantins
+AC,musical_instruments,1,Acre
+AC,small_appliances,1,Acre
+AL,agro_industry_and_commerce,1,Alagoas
+AC,cool_stuff,1,Acre
+AC,consoles_games,1,Acre
+AC,computers,1,Acre
+AC,christmas_supplies,1,Acre
