@@ -116,7 +116,7 @@ def show_top_category_in_state(df, state_name):
 
 parent_dir = Path(__file__).parents[0]
 
-items_orders_products_payments_df = pd.read_csv(parent_dir/'main_data\items_orders_products_data.csv')
+items_orders_products_payments_df = pd.read_csv(parent_dir/'main_data/items_orders_products_data.csv')
 state_mark_customer_count_df = pd.read_csv(parent_dir/'main_data\state_mark_customer_count_data.csv')
 order_city_count_df = pd.read_csv(parent_dir/'main_data\order_city_count_data.csv')
 product_in_state = pd.read_csv(parent_dir/'main_data\product_in_state_data.csv').sort_values(by='product_id', ascending=False)
