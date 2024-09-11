@@ -58,7 +58,7 @@ def show_marker_map(df):
 
     gdf.set_crs(epsg=4326, inplace=True)
 
-    world = gpd.read_file('../data/country_map/ne_10m_admin_0_countries.shp')
+    world = gpd.read_file('main_data\country_map\\ne_10m_admin_0_countries.shp')
 
     brazil = world[world.SOVEREIGNT == 'Brazil']
 
@@ -113,10 +113,10 @@ def show_top_category_in_state(df, state_name):
     
     st.pyplot(plt)
 
-items_orders_products_payments_df = pd.read_csv('main_data/items_orders_products_data.csv')
-state_mark_customer_count_df = pd.read_csv('main_data/state_mark_customer_count_data.csv')
-order_city_count_df = pd.read_csv('main_data/order_city_count_data.csv')
-product_in_state = pd.read_csv('main_data/product_in_state_data.csv').sort_values(by='product_id', ascending=False)
+items_orders_products_payments_df = pd.read_csv(f'main_data\items_orders_products_data.csv')
+state_mark_customer_count_df = pd.read_csv(f'main_data\state_mark_customer_count_data.csv')
+order_city_count_df = pd.read_csv(f'main_data\order_city_count_data.csv')
+product_in_state = pd.read_csv(f'main_data\product_in_state_data.csv').sort_values(by='product_id', ascending=False)
 
 products_count_df = items_orders_products_payments_df.groupby(by='product_category_name_english').product_id.nunique().sort_values(ascending=False).reset_index()
 payments_type_count = items_orders_products_payments_df.groupby(by='payment_type').order_id.nunique().sort_values(ascending=False).reset_index()
